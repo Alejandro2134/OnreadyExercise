@@ -1,0 +1,19 @@
+{
+  "name": "onreadyexercise",
+  "version": "1.0.0",
+  "description": "An exercise to apply as a Node.js Developer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandro2134/OnreadyExercise.git"
+  },
+  "author": "Alejandro Zapata Molina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alejandro2134/OnreadyExercise/issues"
+  },
+  "homepage": "https://github.com/Alejandro2134/OnreadyExercise#readme"
+}
