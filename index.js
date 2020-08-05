@@ -95,4 +95,5 @@ getExpensiveVehicle(concessionaire.vehicles);
 getCheaperVehicle(concessionaire.vehicles);
 getVehicleThatHasModelWithLetter(concessionaire.vehicles, 'Y');
 console.log('=============================');
+console.log('Vehículos ordenados por precio de mayor a menor:');
 getVehiclesSortByPrice(concessionaire.vehicles);
